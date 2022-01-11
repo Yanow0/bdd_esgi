@@ -1,0 +1,10 @@
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.deps.json
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.dll
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\netcoreapp3.1\SpecFlowCalculator.pdb
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.csproj.AssemblyReference.cache
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.AssemblyInfo.cs
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.dll
+C:\Users\Yanis\Documents\Cours AL\BDD\TP\bdd_esgi\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\netcoreapp3.1\SpecFlowCalculator.pdb
