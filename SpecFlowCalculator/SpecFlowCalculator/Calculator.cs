@@ -7,14 +7,25 @@ namespace SpecFlowCalculator
         public int FirstNumber { get; set; }
         public int SecondNumber { get; set; }
 
-        public int Add()
+        public string Add()
         {
-            return FirstNumber + SecondNumber;
+            return (FirstNumber + SecondNumber).ToString();
         }
 
-        public int Multiply()
+        public string Multiply()
         {
-            return FirstNumber * SecondNumber;
+            return (FirstNumber * SecondNumber).ToString();
+        }
+
+        public string Divide()
+        {
+            if (SecondNumber != 0)
+            {
+                return (FirstNumber / SecondNumber).ToString();
+            } else
+            {
+                return "You cannot divide by zero.";
+            }
         }
     }
 }

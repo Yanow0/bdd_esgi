@@ -17,3 +17,17 @@ Scenario: Multiply two numbers
 	And the second number is 5
 	When the two numbers are multiplied
 	Then the result should be 10
+
+Scenario: Divide two numbers
+	Given the first number is 8
+	And the second number is 4
+	When the two numbers are divided
+	Then the result should be 2
+
+Scenario: Divide by zero
+	Given the first number is 8
+	And the second number is 0
+	When the two numbers are divided
+	Then the result should be You cannot divide by zero.
+
+	

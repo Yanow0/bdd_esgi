@@ -11,7 +11,7 @@ namespace SpecFlowCalculator.Specs.Steps
 
         private readonly ScenarioContext _scenarioContext;
         private readonly Calculator _calculator = new Calculator();
-        private int _result;
+        private string _result;
 
         public CalculatorStepDefinitions(ScenarioContext scenarioContext)
         {
@@ -44,8 +44,14 @@ namespace SpecFlowCalculator.Specs.Steps
             _result = _calculator.Multiply();
         }
 
+        [When("the two numbers are divided")]
+        public void WhenTheTwoNumbersAreDivided()
+        {
+            _result = _calculator.Divide();
+        }
+
         [Then("the result should be (.*)")]
-        public void ThenTheResultShouldBe(int result)
+        public void ThenTheResultShouldBe(string result)
         {
             _result.Should().Be(result);
         }
